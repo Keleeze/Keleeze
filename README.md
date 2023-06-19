@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Software Engineering 
 - 💞️ I’m looking to collaborate on Software Engineering 
-- 📫 How to reach me here
+- 📫 How to reach me kingselyemeka2@gmail.com
 
 <!---
 Keleeze/Keleeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
